@@ -1,6 +1,6 @@
 trigger:
-- master
-
+  batch: true
+  
 pool:
   vmImage: 'Ubuntu-16.04'
 
